@@ -59,7 +59,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/abhishekkr1818/abhishekkr1818/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/abhishekkr1818/abhishekkr1818/output/snake-dark.svg" alt="Snake animation dark" />
 
 
 ###
